@@ -48,11 +48,22 @@ We combined **observational data** (hourly patty weights for chicken, beef, and 
 - Prioritize “too small” complaints to improve perceived value.
 
 ---
-
 ## Artifacts
-- 📄 [Full Report (PDF)](./docs/Restaurant_Case_Study.pdf)  
-- 📊 Charts & graphics: [`/assets`](./assets)  
-- 🗂️ Sample anonymized data: [`/data`](./data)
+
+### Full Report
+- 📄 [Full Report (PDF)](./docs/Restaurant_Case_Study.pdf)
+
+### Key Visuals
+
+#### Control Chart (Chicken Patties)
+![ControlChart](./assets/XBar_Chart_Chicken_Patties.png)
+
+#### Pareto of Customer Complaints
+![Pareto Chart](./assets/Pareto_Chart_Barn_Patties.png)  
+
+More charts available in the [`/assets`](./assets) folder.
+### Data
+🗂️ Sample anonymized data: [`/data`](./data)
 
 ---
 
