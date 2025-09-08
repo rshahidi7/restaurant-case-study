@@ -1,3 +1,24 @@
+# OS/editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Tableau (often huge — don't commit)
+*.hyper
+*.tde
+*.twbx   # keep .twb if small; twbx can be large
+
+# Data: commit only small, anonymized samples
+data/**
+!data/README.md
+!data/sample/**
+
+# Office/temp
+~$*.xls*
+~$*.doc*
+*.tmp
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
