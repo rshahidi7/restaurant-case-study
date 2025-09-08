@@ -54,16 +54,16 @@ We combined **observational data** (hourly patty weights for chicken, beef, and 
 - 📄 [Full Report (PDF)](./docs/Restaurant_Case_Study.pdf)
 
 ### Key Visuals
+- Control Chart (Chicken Patties)  
+  ![Control Chart](./assets/XBar_Chart_Chicken_Patties.png)
 
-#### Control Chart (Chicken Patties)
-![ControlChart](./assets/XBar_Chart_Chicken_Patties.png)
+- Pareto of Customer Complaints  
+  ![Pareto Chart](./assets/Pareto_Chart_Barn_Patties.png)  
 
-#### Pareto of Customer Complaints
-![Pareto Chart](./assets/Pareto_Chart_Barn_Patties.png)  
+➡️ More charts available in the [`/assets`](./assets) folder.
 
-More charts available in the [`/assets`](./assets) folder.
 ### Data
-🗂️ Sample anonymized data: [`/data`](./data)
+- 🗂️ Sample anonymized data: [`/data`](./data)
 
 ---
 
