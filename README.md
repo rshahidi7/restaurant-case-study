@@ -1,6 +1,6 @@
 # Restaurant Case Study – Patty Size & Quality Analysis
 
-**Role:** Data Analyst • **Tools:** Excel, R (SPC/ANOVA), Survey Data • **Timeline:** Fall 2024
+**Role:** Data Analyst • **Tools:** Excel, R (SPC/ANOVA), Survey Data • **Timeline:** Spring 2024
 
 ---
 
