@@ -63,7 +63,7 @@ We combined **observational data** (hourly patty weights for chicken, beef, and 
 ➡️ More charts available in the [`/assets`](./assets) folder.
 
 ### Data
-- 🗂️ Sample anonymized data: [`/data`](./data)
+- 🗂️ Sample anonymized data: [`/data`](./data/README.md)
 
 ---
 
