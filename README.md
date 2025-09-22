@@ -71,5 +71,7 @@ We combined **observational data** (hourly patty weights for chicken, beef, and 
 - Code/scripts: MIT © Ryan Shahidi 2025  
 - Report & images: CC BY-NC 4.0
 
+---
+
 **Author:** Ryan Shahidi  
 **Contact:** ryanshahidi04@gmail.com · https://github.com/rshahidi7 · www.linkedin.com/in/ryan-shahidi-39b705253
